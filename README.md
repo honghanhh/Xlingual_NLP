@@ -1,4 +1,4 @@
-# Low resources, multi-lingual , and cross-lingual in NLP
+# Low resources, multi-lingual, and cross-lingual in NLP
 
 The reporatory focuses on the study of diverse approaches to low resource and multi-lingual problems in Natural Language Processing, which will be demonstrated in the Table below.
 
@@ -38,4 +38,7 @@ The reporatory focuses on the study of diverse approaches to low resource and mu
 
 ## Reference
 - [Paperswithcode](https://paperswithcode.com/)
+
+## Contributor
+- [@honghanhh](https://github.com/honghanhh/)
 
